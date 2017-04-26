@@ -1,6 +1,5 @@
 package com.abdullah.onlineradio;
 
-
 import com.abdullah.onlineradio.R;
 
 import android.app.Activity;
@@ -128,7 +127,7 @@ finishDialog.show();
 	        menuInflater.inflate(R.layout.menu, menu);
 	        return true;
 	    }
-	
+	/*for menu*/
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item)
 {
